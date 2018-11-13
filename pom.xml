@@ -21,6 +21,20 @@
     <sonar.host.url>http://127.0.0.1:9000/</sonar.host.url>
 
   </properties>
+  
+  
+	<distributionManagement>
+	    <repository>
+	      <id>nexus</id>
+	      <name>Maven Web Releases Nexus Repository</name>
+	      <url>http://localhost:8081/repository/maven-web-releases/</url>
+	    </repository>
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Maven Web Snapshot Nexus Repository </name>
+	      <url>http://localhost:8081/repository/maven-web-snapshots/</url>
+	    </snapshotRepository>
+	</distributionManagement>
 
   <dependencies>
     <dependency>
