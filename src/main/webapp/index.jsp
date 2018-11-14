@@ -21,7 +21,7 @@
 <address style="color:blue;">
 Written by Viswanatha Reddy N.<br> 
 Visit us at:<br>
-www.viswanathareddnagireddy.com<br>
+www.viswanathareddynagireddy.com<br>
 Box 516227, Badvel<br>
 Kadapa, A.P<br>
 ph: +91 8686896366
