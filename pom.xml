@@ -6,7 +6,7 @@
 
   <groupId>com.vishwa</groupId>
   <artifactId>maven-web-project</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5-RELEASE</version>
   <packaging>war</packaging>
 
   <name>maven-web-project Maven Webapp</name>
